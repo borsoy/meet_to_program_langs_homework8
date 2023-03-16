@@ -1,0 +1,12 @@
+*.dll
+*.exe
+*.json
+*.pdb
+*.cache
+*.csproj
+*.editorconfig
+*.txt
+*.props
+*.targets
+*.cs
+!Program.cs
